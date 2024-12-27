@@ -1,0 +1,49 @@
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>roll </th>
+                <th>phone</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>ftg</td>
+                
+            </tr>
+            
+            <tr>
+                <td>3</td>
+                <td>ftgj</td>
+                
+            </tr>
+
+        </tbody>
+    </table>
+    <table>
+        <thead>
+            <tr>
+                <th>ytuj</th>
+                <th>jhkj</th>
+                <th rowspan="2">school</th>
+
+            </tr>
+            <th>fgfhh</th>
+            <th>drftgh</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>fy</td>
+                <td>ygyuh</td>
+                <td rowspan="2">ft</td>
+            </tr>
+             <tr>
+                <td>fy</td>
+                <td>ft</td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>

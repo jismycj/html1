@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding:0px;
+
+}
+header{
+    background-color: aquamarine;
+    padding:10px;
+     position: fixed;
+}
+#head{
+    padding:10px;
+}
+span{
+    font-weight: 700;
+    font-size: 45px;
+}

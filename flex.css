@@ -1,0 +1,20 @@
+.parent{
+    height: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+
+
+.child{
+    height: 300px;
+    width: 300px;
+    border:2px solid;
+    padding:5px;
+}
+.img{
+  width:100%;
+}
